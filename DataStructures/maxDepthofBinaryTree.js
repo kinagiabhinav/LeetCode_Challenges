@@ -17,6 +17,5 @@
     let leftHeight = maxDepth(root.left);
     let rightHeight = maxDepth(root.right);
     
-    
     return (leftHeight > rightHeight) ? leftHeight+1 : rightHeight+1;
 };
