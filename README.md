@@ -1,5 +1,5 @@
-LeetCode Study Plan
+## LeetCode Study Plan
 
-14-Day Challenge
+### 14-Day Challenges
 
-My submissions
+#### My submissions
