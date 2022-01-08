@@ -20,8 +20,8 @@ var longestPalindrome = function(s) {
                if(maxPalindrome.length < temp.length)
                     maxPalindrome = temp;
                 
-               // if(maxPalindrome.length === s.length)
-               //     return maxPalindrome;
+               if(maxPalindrome.length === s.length)
+                   return maxPalindrome;
             }
         }
         i++;   
